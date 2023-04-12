@@ -1,7 +1,6 @@
 ### This is SoJeong's GitHub 👋
 <img src="https://img.shields.io/badge
-/한우석-02458D?style=
-?style=for-the-badge&logo=appveyo"/>
+/한우석-02458D?style=for-the-badge&logo=appveyo"/>
 <!--
 **SojeongM/SojeongM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
