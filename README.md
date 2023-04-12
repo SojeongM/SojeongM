@@ -1,4 +1,4 @@
-### Hi there 👋
+### This is SoJeong's GitHub 👋
 
 <!--
 **SojeongM/SojeongM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
